@@ -1,4 +1,4 @@
-# [Título do seu Artigo Científico]
+# [COTB - Temografia Tibia]
 
 Este repositório contém os códigos, rotinas e dados de saída referentes ao artigo científico intitulado **"[COTB - Temografia Tibia]"**.
 
