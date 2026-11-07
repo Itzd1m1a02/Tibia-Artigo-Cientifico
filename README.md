@@ -43,23 +43,6 @@ O algoritmo processa matrizes térmicas brutas em lote (*batch processing*) segu
 
 ---
 
-## 📊 Principais Resultados Obtidos
-
-A execução do pipeline sobre o conjunto de dados completo processou **729 arquivos CSV**, resultando na extração e validação de **1.398 tíbias**:
-
-| Grupo Clínico | Amostras Extraídas (Pernas) | Proporção no Dataset |
-| :--- | :---: | :---: |
-| **Saudáveis (Hígidos)** | 1.079 | 77,18% |
-| **Pseudoartrose** | 181 | 12,95% |
-| **Fratura Óssea** | 97 | 6,94% |
-| **Osteomielite** | 41 | 2,93% |
-| **Total** | **1.398** | **100%** |
-
-### Desempenho do Classificador KNN ($k = 5$)
-Na validação com os **30% de amostras de teste**, o modelo atingiu uma **Acurácia Global de $75,18\%$**, destacando-se na identificação do grupo controle saudável (**Sensibilidade de $92,88\%$**, **Precisão de $83,33\%$** e **F1-Score de $87,85\%$**).
-
----
-
 ## 🛠️ Tecnologias e Requisitos
 
 - **MATLAB** (R2020b ou superior recomendado)
